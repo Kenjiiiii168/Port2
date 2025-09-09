@@ -1,1 +1,1 @@
-(https://github.com/Kenjiiiii168/Port2.git)
+(https://kenjiiiii168.github.io/Port2/)
